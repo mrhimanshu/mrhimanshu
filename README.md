@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align="center">
+	<a href="https://github.com/mrhimanshu">Hi, I'm Himanshu !!</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3> 
+<br/>
+
+<p align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=calibri&size=30&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Working+as+a+Machine+Learning+Engineer">
+  </p>
 
 <!--
 **mrhimanshu/mrhimanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
