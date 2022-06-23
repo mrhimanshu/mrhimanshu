@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=calibri&size=30&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Working+as+a+Machine+Learning+Engineer">
+          <img src="https://readme-typing-svg.herokuapp.com?font=calibiri&size=30&width=500&lines=Machine+Learning+Enginee)">
   </p>
 
 <!--
