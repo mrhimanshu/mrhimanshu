@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=calibri&size=25&duration=2000&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=Gen+AI+Engineer+%7C+Data+Scientist;;I+enjoy+implementing+DevSecOps+and+MLOps+;.............;I'm+on+track+for+learning+more+about+System+Design%2C+and+Algorithms.;.;">
+<img src="https://readme-typing-svg.herokuapp.com?font=calibri&size=25&duration=2000&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=Gen+AI+Engineer+%7C+Data+Scientist;;I+enjoy+implementing+Agents+;.............;I'm+on+track+for+learning+more+about+System+Design%2C+and+Algorithms.;.;">
 
 <!--
 **mrhimanshu/mrhimanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
